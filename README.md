@@ -1,0 +1,2 @@
+# mygodq.github.io
+test
